@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer with Java, Angular and Flutter.
+Backend Developer with Java, Angular and Flutter. VoIP with Asterisk is very interesting to me too!
 
 
 ## 🌐 Socials:
