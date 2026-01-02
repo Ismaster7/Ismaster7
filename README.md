@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer with Java, Angular and Flutter. VoIP with Asterisk is very interesting to me too!
+Backend Developer with Java - Spring boot (main), C# .Net, React(main), Angular and Flutter. VoIP with Asterisk is very interesting to me too!
 
 
 ## 🌐 Socials:
